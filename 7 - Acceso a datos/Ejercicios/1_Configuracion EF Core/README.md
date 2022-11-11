@@ -1,0 +1,2 @@
+1. En el proyecto BusBookingApi de los módulos anteriores, añade un DbContext para la aplicación, conectando con SQL Server Express.
+2. Haz que la base de datos se autogenere en el arranque de la aplicación. De momento no te preocupes por las migraciones.
