@@ -54,9 +54,10 @@ dotnet sln ejercicio6.sln add ejercicio6/ejercicio6.csproj
 ## Ejercicio 7
 
 ```bash
-dotnet new sln -n ejercicio7.sln
+dotnet new sln -n ejercicio7
+dotnet new classlib --help
 dotnet new classlib -n Net6
-dotnet new classlib -f net5 -n Net5
+dotnet new classlib -f net5.0 -n Net5
 dotnet sln ejercicio7.sln add Net6/Net6.csproj
 dotnet sln ejercicio7.sln add Net5/Net5.csproj
 dotnet new console -n console
@@ -67,7 +68,7 @@ dotnet sln ejercicio7.sln list
 ## Ejercicio 8
 
 ```bash
-dotnet add console/console.csproj reference netstandardlib/netstandardlib.csproj
+dotnet add console/console.csproj reference Net6/Net6.csproj
 ```
 
 ## Ejercicio 9
@@ -90,12 +91,12 @@ dotnet publish MiConsola/MiConsole.csproj -o dist
 
 ## Ejercicio 11
 
-10. Arregla el sln de la carpeta ejercicio10.
+10. Arregla el sln de la carpeta ejercicio11.
 
-El problema de la solución del ejercicio 10 es que hay una dependencia circular. Si listamos los proyectos nos sale:
+El problema de la solución del ejercicio 11 es que hay una dependencia circular. Si listamos los proyectos nos sale:
 
 ```bash
-dotnet sln ejercicio10.sln list
+dotnet sln ejercicio11.sln list
 Proyectos
 ---------
 console\console.csproj
@@ -127,5 +128,5 @@ Por tanto, la librería MiLibreria2 referencia al proyecto de consola y vicevers
 
 ```bash
 $ dotnet remove MiLibreria2/MiLibreria2.csproj reference ..\console\console.csproj
-$ dotnet build ejercicio10.sln
+$ dotnet build ejercicio11.sln
 ```
