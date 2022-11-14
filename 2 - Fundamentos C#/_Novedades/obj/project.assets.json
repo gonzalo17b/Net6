@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\2 - Fundamentos C#\\_Novedades\\Novedades.csproj",
+      "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\Net6\\2.fundamentos-csharp\\Novedades\\Novedades.csproj",
       "projectName": "Novedades",
-      "projectPath": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\2 - Fundamentos C#\\_Novedades\\Novedades.csproj",
+      "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\Net6\\2.fundamentos-csharp\\Novedades\\Novedades.csproj",
       "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\2 - Fundamentos C#\\_Novedades\\obj\\",
+      "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\Net6\\2.fundamentos-csharp\\Novedades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",

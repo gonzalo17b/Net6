@@ -2,7 +2,40 @@
 
 internal static class Records
 {
+
+
+    private static void WriteToConsole(string str) =>  Console.WriteLine(str);
+
     public static void DoStuff()
+    {
+        
+    }
+    public delegate void WriteDelegate(string message);
+    public static void Print(WriteDelegate write)
+    {
+        var message = "Hola desde el delegado";
+        write(message);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static void DoStuff()
     {
         var person1 = new Person()
         {
