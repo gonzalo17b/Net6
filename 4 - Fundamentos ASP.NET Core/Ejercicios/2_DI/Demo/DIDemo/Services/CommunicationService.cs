@@ -1,20 +1,21 @@
 ﻿using DIDemo.Models;
+using DIDemo.Services.Interfaces;
 
 namespace DIDemo.Services
 {
     public class CommunicationService
     {
-        private EmailService _emailService;
+        private ISender _senderService;
 
-        public CommunicationService()
+        public CommunicationService(ISender sender)
         {
             Console.WriteLine($"Instanciamos {nameof(CommunicationService)} at {DateTime.Now.ToShortDateString()}");
-            _emailService = new EmailService();
+            _senderService = sender;
         }
 
         public void SendMessage(Customer customer, string message)
         {
-            _emailService.Send(customer, message);
+            _senderService.SendMessage(customer, message);
         }
     }
 }

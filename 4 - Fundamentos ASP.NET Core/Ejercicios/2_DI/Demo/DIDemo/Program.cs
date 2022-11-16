@@ -1,17 +1,24 @@
+using DIDemo.Repositories;
+using DIDemo.Repositories.Interface;
 using DIDemo.Services;
+using DIDemo.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<ISender, SMSService>();
+builder.Services.AddTransient<IDbConnection, OracleConnection>();
+builder.Services.AddTransient<ICustomerRepository, CustomerRepository>();
+builder.Services.AddTransient<CustomerService>();
+builder.Services.AddTransient<CommunicationService>();
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+app.MapGet("/", (ISender sender) => {
+    // cualquier cosa con sender
+    Console.WriteLine("********************");
+});
 
-app.MapGet("/send", () =>
+app.MapGet("/send", (CustomerService custormerService, CommunicationService comunicationService) =>
 {
-    //DEPENDENCIAS
-
-    var custormerService = new CustomerService();
-    var comunicationService = new CommunicationService();
-
     var customers = custormerService.GetAllCustomers();
 
     var message = "This is the generic message to all the customers";

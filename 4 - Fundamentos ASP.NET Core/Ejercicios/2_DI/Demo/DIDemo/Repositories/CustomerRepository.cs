@@ -1,15 +1,16 @@
 ﻿using DIDemo.Models;
+using DIDemo.Repositories.Interface;
 
 namespace DIDemo.Repositories
 {
-    public class CustomerRepository
+    public class CustomerRepository: ICustomerRepository
     {
-        private MySqlConnection _connection;
+        private IDbConnection _connection;
 
-        public CustomerRepository()
+        public CustomerRepository(IDbConnection connection)
         {
             Console.WriteLine($"Instanciamos {nameof(CustomerRepository)} at {DateTime.Now.ToShortDateString()}");
-            _connection = new MySqlConnection();            
+            _connection = connection;
         }
 
         public List<Customer> GetAll()
