@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\4 - Fundamentos ASP.NET Core\\Ejercicios\\4_Settings\\Old\\BusBookingApi\\BusBookingApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\4 - Fundamentos ASP.NET Core\\Ejercicios\\4_Settings\\Old\\BusBookingApi\\BusBookingApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\4 - Fundamentos ASP.NET Core\\Ejercicios\\4_Settings\\Old\\BusBookingApi\\BusBookingApi.csproj",
+        "projectName": "BusBookingApi",
+        "projectPath": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\4 - Fundamentos ASP.NET Core\\Ejercicios\\4_Settings\\Old\\BusBookingApi\\BusBookingApi.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\4 - Fundamentos ASP.NET Core\\Ejercicios\\4_Settings\\Old\\BusBookingApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
