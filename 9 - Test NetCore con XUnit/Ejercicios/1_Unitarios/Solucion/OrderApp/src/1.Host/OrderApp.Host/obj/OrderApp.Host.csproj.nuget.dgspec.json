@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\OrderApp.Host.csproj": {}
+  },
+  "projects": {
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\OrderApp.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\OrderApp.Host.csproj",
+        "projectName": "OrderApp.Host",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\OrderApp.Host.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj",
+        "projectName": "OrderApp.Api",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj"
+              },
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hellang.Middleware.ProblemDetails": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj",
+        "projectName": "OrderApp.Services",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj"
+              },
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj",
+        "projectName": "OrderApp.Domain",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj",
+        "projectName": "OrderApp.Models",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

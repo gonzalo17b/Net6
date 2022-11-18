@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "26BqRgjAY237pHzvXBehtIFYIfkdKgB/CIY7BWRVQ3lF90KaF+XnDOSFV5KGd1ZEufpMSxpC2ylaWp58Yf1wsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gonzalo.bermejo\\Desktop\\Net6\\6 - ASP.NET Core MVC\\Ejercicios\\2_Models\\Solución\\BusBookingApi\\BusBookingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

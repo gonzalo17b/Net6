@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\test\\UnitTests\\OrderApp.UnitTests\\OrderApp.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj",
+        "projectName": "OrderApp.Domain",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\test\\UnitTests\\OrderApp.UnitTests\\OrderApp.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\test\\UnitTests\\OrderApp.UnitTests\\OrderApp.UnitTests.csproj",
+        "projectName": "OrderApp.UnitTests",
+        "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\test\\UnitTests\\OrderApp.UnitTests\\OrderApp.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+        "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\test\\UnitTests\\OrderApp.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+          "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+                "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "OrderApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OrderApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderApp.Domain.dll": {}
+        }
+      },
+      "OrderApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OrderApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../4.Domain/OrderApp.Domain/OrderApp.Domain.csproj",
+      "msbuildProject": "../../4.Domain/OrderApp.Domain/OrderApp.Domain.csproj"
+    },
+    "OrderApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../../4.Domain/OrderApp.Models/OrderApp.Models.csproj",
+      "msbuildProject": "../../4.Domain/OrderApp.Models/OrderApp.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "OrderApp.Domain >= 1.0.0",
+      "OrderApp.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj",
+      "projectName": "OrderApp.Services",
+      "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj",
+      "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+      "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+        "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj": {
+              "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Domain\\OrderApp.Domain.csproj"
+            },
+            "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj": {
+              "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

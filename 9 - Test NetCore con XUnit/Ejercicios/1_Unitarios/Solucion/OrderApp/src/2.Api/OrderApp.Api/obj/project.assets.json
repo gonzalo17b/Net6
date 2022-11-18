@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Hellang.Middleware.ProblemDetails/6.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Reflection.Metadata": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Hellang.Middleware.ProblemDetails.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Hellang.Middleware.ProblemDetails.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "System.Reflection.Metadata/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
+        }
+      },
+      "OrderApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OrderApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderApp.Domain.dll": {}
+        }
+      },
+      "OrderApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OrderApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderApp.Models.dll": {}
+        }
+      },
+      "OrderApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OrderApp.Domain": "1.0.0",
+          "OrderApp.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderApp.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hellang.Middleware.ProblemDetails/6.3.0": {
+      "sha512": "+IGpHrSpzqaaJmRSKT07PAfZAltcvIsmY7SM+IGl801fI1zQASmCwkSvc8qWa+/Sl6hiCYRiO/6iCUJb92mBog==",
+      "type": "package",
+      "path": "hellang.middleware.problemdetails/6.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hellang.middleware.problemdetails.6.3.0.nupkg.sha512",
+        "hellang.middleware.problemdetails.nuspec",
+        "lib/net5.0/Hellang.Middleware.ProblemDetails.dll",
+        "lib/net5.0/Hellang.Middleware.ProblemDetails.xml",
+        "lib/netcoreapp3.1/Hellang.Middleware.ProblemDetails.dll",
+        "lib/netcoreapp3.1/Hellang.Middleware.ProblemDetails.xml",
+        "problem-logo.png"
+      ]
+    },
+    "System.Reflection.Metadata/5.0.0": {
+      "sha512": "5NecZgXktdGg34rh1OenY1rFNDCI8xSjFr+Z4OU4cU06AQHUdRnIIEeWENu3Wl4YowbzkymAIMvi3WyK9U53pQ==",
+      "type": "package",
+      "path": "system.reflection.metadata/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Reflection.Metadata.dll",
+        "lib/net461/System.Reflection.Metadata.xml",
+        "lib/netstandard1.1/System.Reflection.Metadata.dll",
+        "lib/netstandard1.1/System.Reflection.Metadata.xml",
+        "lib/netstandard2.0/System.Reflection.Metadata.dll",
+        "lib/netstandard2.0/System.Reflection.Metadata.xml",
+        "lib/portable-net45+win8/System.Reflection.Metadata.dll",
+        "lib/portable-net45+win8/System.Reflection.Metadata.xml",
+        "system.reflection.metadata.5.0.0.nupkg.sha512",
+        "system.reflection.metadata.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "OrderApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../4.Domain/OrderApp.Domain/OrderApp.Domain.csproj",
+      "msbuildProject": "../../4.Domain/OrderApp.Domain/OrderApp.Domain.csproj"
+    },
+    "OrderApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../../4.Domain/OrderApp.Models/OrderApp.Models.csproj",
+      "msbuildProject": "../../4.Domain/OrderApp.Models/OrderApp.Models.csproj"
+    },
+    "OrderApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../../3.Services/OrderApp.Services/OrderApp.Services.csproj",
+      "msbuildProject": "../../3.Services/OrderApp.Services/OrderApp.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Hellang.Middleware.ProblemDetails >= 6.3.0",
+      "OrderApp.Models >= 1.0.0",
+      "OrderApp.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj",
+      "projectName": "OrderApp.Api",
+      "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj",
+      "packagesPath": "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\",
+      "outputPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gonzalo.bermejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://srvscs.maddicity.com/DefaultCollection/Dorlet.Waste/_packaging/nuget-maddi/nuget/v3/index.json": {},
+        "https://www.myget.org/F/efcore-mongodb/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj": {
+              "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\3.Services\\OrderApp.Services\\OrderApp.Services.csproj"
+            },
+            "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj": {
+              "projectPath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\4.Domain\\OrderApp.Models\\OrderApp.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Hellang.Middleware.ProblemDetails": {
+            "target": "Package",
+            "version": "[6.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

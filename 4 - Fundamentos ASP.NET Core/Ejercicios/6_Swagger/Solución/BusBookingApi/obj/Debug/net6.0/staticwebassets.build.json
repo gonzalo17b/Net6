@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WGd5MREdd/+riVqHMFQ0GNyN3eDu/eqCkEpIiRUafO8=",
+  "Source": "BusBookingApi",
+  "BasePath": "_content/BusBookingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

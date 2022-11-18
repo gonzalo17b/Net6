@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqLQlTOogczeAVqj052aifxZjDmWq4zQ8TJjCoAuu2YTGEcOhgg4ZL72iGz/WOc0fLcubYI2W5TPk8ZeYYNUuw==",
+  "success": true,
+  "projectFilePath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestUnitarios\\Solucion\\OrderApp\\src\\1.Host\\OrderApp.Host\\OrderApp.Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\hellang.middleware.problemdetails\\6.3.0\\hellang.middleware.problemdetails.6.3.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

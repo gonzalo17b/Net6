@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TzkmAAPCuNktvp3p5QGmbhej0F8Z/ON09RWx///YpvR9WLHsjXwYWi3QLuwT4BtDPBYCzoZQx1flZRQnLgWVfA==",
+  "success": true,
+  "projectFilePath": "C:\\GBC\\Formaciones\\PlainConcepts.U03.TrainingDotNet\\NetCoreV\\6.aspnetcore-testing\\EjerciciosTestIntegracion\\Solucion\\OrderApp\\src\\2.Api\\OrderApp.Api\\OrderApp.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\hellang.middleware.problemdetails\\6.3.0\\hellang.middleware.problemdetails.6.3.0.nupkg.sha512",
+    "C:\\Users\\gonzalo.bermejo\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

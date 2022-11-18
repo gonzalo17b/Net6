@@ -1,0 +1,44 @@
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.Development.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.Staging.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.exe
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.deps.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.runtimeconfig.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.dll
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.pdb
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.csproj.AssemblyReference.cache
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.AssemblyInfoInputs.cache
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.AssemblyInfo.cs
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.csproj.CoreCompileInputs.cache
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\scopedcss\bundle\BusBookingApi.styles.css
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.dll
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\refint\BusBookingApi.dll
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.pdb
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.genruntimeconfig.cache
+C:\GBC\Formaciones\PlainConcepts.U03.TrainingDotNet\Net6\4.fundamentos-netcore\4.4.EjerciciosSettings\Solución\BusBookingApi\obj\Debug\net6.0\ref\BusBookingApi.dll
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\appsettings.Staging.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.exe
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.deps.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.runtimeconfig.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.dll
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\bin\Debug\net6.0\BusBookingApi.pdb
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.csproj.AssemblyReference.cache
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.AssemblyInfoInputs.cache
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.AssemblyInfo.cs
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\scopedcss\bundle\BusBookingApi.styles.css
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.dll
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\refint\BusBookingApi.dll
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.pdb
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\BusBookingApi.genruntimeconfig.cache
+C:\Users\gonzalo.bermejo\Desktop\Net6\4 - Fundamentos ASP.NET Core\Ejercicios\4_Settings\Solución\BusBookingApi\obj\Debug\net6.0\ref\BusBookingApi.dll
